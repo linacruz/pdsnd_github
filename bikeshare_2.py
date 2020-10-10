@@ -52,7 +52,7 @@ def time_stats(df):
     start_time = time.time()
 
     # display the most common month
-
+     This commit is made to display the most frequent month of travel
 
     # display the most common day of week
 
